@@ -1,7 +1,7 @@
 {
   "name": "github-api",
   "version": "0.1.0",
-  "homepage": "https://alilenko.github.io/Redux-Toolkit-Query/",
+  "homepage": "https://alilenko.github.io/Redux-Toolkit-Query",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
