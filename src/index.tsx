@@ -11,7 +11,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <Provider store={store}>
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/Redux-Toolkit-Query">
       <App />
     </BrowserRouter>
   </Provider>
